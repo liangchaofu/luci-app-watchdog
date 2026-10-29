@@ -10,7 +10,7 @@
 				"/bin/pidof": [ "exec" ]
 			},
 			"ubus": {
-				"control": [ "list" ]
+				"services": [ "list" ]
 			},
 			"uci": [ "watchdog" ]
 		},
